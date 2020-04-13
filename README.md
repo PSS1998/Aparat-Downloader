@@ -1,5 +1,5 @@
 # Aparat Downloader
-ب
+
 Use "" around link to avoid bad things <br>
 ```python adp.py "{Link}" --quality [quality] --type [type] ```<br>
     ```python apd.py "https://www.aparat.com/v/9h1Gb"```<br>
